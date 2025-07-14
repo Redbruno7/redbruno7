@@ -4,6 +4,7 @@
 - Possuo certificado de Programador Web
 - Técnico de Desenvolvimento de Sistemas - Senac MG
 - Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade Salgado de Oliveira
+- Contate-me no e-mail: brunorodgers7@gmail.com
 <br>
 
 <div>
@@ -26,6 +27,5 @@
 <div> 
   <a href="https://www.youtube.com/@Redbruno" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/redbruno7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "brunorodgers7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-rodgers-918330257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
